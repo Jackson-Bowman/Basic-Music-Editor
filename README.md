@@ -1,4 +1,6 @@
 # Basic-Music-Editor
+**This was a project I worked on with my classmate Ruiari in my Object Oriented Design class. The assignment was to utilize MVC architecture to create a music editor that can play the music as well as compose it. 
+
 The model implementation is the cs3500.music.model.SoundBoard class.  Notes are added to the model
 with the addNote method for new Notes.  Notes can be removed with the remove method.
 The user can also get the number of beats per measure of the current model with the getMeasure
